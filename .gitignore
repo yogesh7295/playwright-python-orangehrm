@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Playwright artifacts
+test-results/
+playwright-report/
+
+# Reports and screenshots
+reports/
+screenshots/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
